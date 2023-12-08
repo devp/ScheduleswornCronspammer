@@ -1,0 +1,1 @@
+alias mtg='node ~/code/misc/mine/utils/my-mtg-alerter/mtgScript.js'
